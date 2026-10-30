@@ -1,0 +1,501 @@
+product_id,product_name,category,unit_cost,unit_price
+1,Bluetooth Speaker Plus 1,Electronics,3909.38,6262.03
+2,Spice Kit Pro 2,Groceries,1041.54,1710.37
+3,Headphones Max 3,Electronics,2770.48,4703.88
+4,Sticky Notes Plus 4,Stationery,1770,2364.33
+5,Standing Desk Eco 5,Furniture,4652.08,5595.48
+6,Standing Desk Eco 6,Furniture,2555.88,3178.06
+7,Jeans Eco 7,Clothing,4737.73,8404.85
+8,Marker Set Classic 8,Stationery,1288.2,2292.52
+9,File Folder Plus 9,Stationery,3861.34,6860.61
+10,Protein Bar Pro 10,Groceries,4487.79,6683.14
+11,T-Shirt Lite 11,Clothing,1944.23,3122.72
+12,Bookshelf Plus 12,Furniture,2091.51,3157.98
+13,Webcam Lite 13,Electronics,4169.28,5721.81
+14,Green Tea Lite 14,Groceries,426.34,633.51
+15,Jacket Plus 15,Clothing,4476.87,5863.23
+16,Standing Desk Lite 16,Furniture,3698.71,6070.54
+17,Jacket Lite 17,Clothing,1184.58,2015.92
+18,Jacket Pro 18,Clothing,3905.75,6843.31
+19,Spice Kit Eco 19,Groceries,82.79,146.94
+20,Green Tea Classic 20,Groceries,3122.3,5429.28
+21,Sticky Notes Eco 21,Stationery,2479.49,3392.34
+22,Storage Cabinet Eco 22,Furniture,684.82,1150.2
+23,Spice Kit Plus 23,Groceries,211.19,303.32
+24,Standing Desk Max 24,Furniture,4883.71,7378.91
+25,T-Shirt Lite 25,Clothing,108.51,154.92
+26,Bluetooth Speaker Plus 26,Electronics,1839.93,2414.52
+27,Jacket Eco 27,Clothing,1383.57,1945.1
+28,Standing Desk Classic 28,Furniture,2148.52,3481.52
+29,Jeans Plus 29,Clothing,4278.91,6291.87
+30,Gel Pen Max 30,Stationery,4897.4,6548.51
+31,Webcam Lite 31,Electronics,1386.25,2125.4
+32,Olive Oil Max 32,Groceries,771.93,995.58
+33,Smartwatch Lite 33,Electronics,2136.53,3840.06
+34,Marker Set Classic 34,Stationery,3616.77,4991.22
+35,Marker Set Pro 35,Stationery,286.16,461.96
+36,Smartwatch Classic 36,Electronics,4078.4,6947.08
+37,Power Bank Plus 37,Electronics,3735.74,5291.96
+38,Marker Set Plus 38,Stationery,4662.63,6557.92
+39,Basmati Rice Max 39,Groceries,1787.9,3178.65
+40,Storage Cabinet Max 40,Furniture,2900.68,4417.92
+41,Jeans Eco 41,Clothing,1659.2,2476.35
+42,Basmati Rice Plus 42,Groceries,1936.3,2862.34
+43,Desk Lamp Plus 43,Furniture,3220.87,4680.21
+44,Marker Set Pro 44,Stationery,2053.62,2561.82
+45,Jacket Max 45,Clothing,1601.74,2202.09
+46,Kurta Plus 46,Clothing,3240.99,5615.39
+47,Kurta Classic 47,Clothing,2628.63,3807.29
+48,Office Chair Lite 48,Furniture,668.95,1068.46
+49,Smartwatch Pro 49,Electronics,876.21,1101.69
+50,Spice Kit Classic 50,Groceries,316.44,479.21
+51,Headphones Lite 51,Electronics,1349.14,1687.22
+52,Green Tea Max 52,Groceries,1185.31,1624.47
+53,Desk Lamp Lite 53,Furniture,2657.37,3234.4
+54,Jeans Classic 54,Clothing,4327.99,7725.41
+55,Sticky Notes Lite 55,Stationery,2765.3,4927.01
+56,Gel Pen Classic 56,Stationery,2974.61,4695.8
+57,File Folder Max 57,Stationery,2641.13,4015.23
+58,Sneakers Pro 58,Clothing,2721.36,3987.11
+59,Sneakers Plus 59,Clothing,1336.04,1611.71
+60,Gel Pen Classic 60,Stationery,1752.23,2665.25
+61,Protein Bar Classic 61,Groceries,1533.07,2573.69
+62,Gel Pen Eco 62,Stationery,3994,5688.2
+63,Spice Kit Lite 63,Groceries,2213.68,2873.27
+64,Protein Bar Pro 64,Groceries,1141.93,1659.62
+65,Storage Cabinet Eco 65,Furniture,3834.46,6459.32
+66,Jeans Eco 66,Clothing,3259.86,5493.79
+67,Olive Oil Lite 67,Groceries,4274.74,5480.11
+68,Webcam Classic 68,Electronics,2303.95,3140.93
+69,File Folder Pro 69,Stationery,979.56,1264.9
+70,Notebook Pro 70,Stationery,970.39,1328.72
+71,Standing Desk Lite 71,Furniture,3649.18,4576.5
+72,Power Bank Classic 72,Electronics,1125.08,1560.43
+73,Green Tea Pro 73,Groceries,2345.24,3279
+74,Office Chair Classic 74,Furniture,1369.19,1701.67
+75,Olive Oil Plus 75,Groceries,1001.35,1692.63
+76,Headphones Max 76,Electronics,4874.26,6577.22
+77,Olive Oil Pro 77,Groceries,3701.21,4883.78
+78,USB Hub Lite 78,Electronics,3346.74,4965.54
+79,Jeans Max 79,Clothing,835.13,1023.29
+80,Marker Set Classic 80,Stationery,654.6,1036.31
+81,Bookshelf Max 81,Furniture,4443.22,5912.47
+82,Smartwatch Plus 82,Electronics,3182.9,3848.26
+83,Kurta Lite 83,Clothing,642.27,774.17
+84,USB Hub Classic 84,Electronics,3928.2,6336.36
+85,Bookshelf Lite 85,Furniture,3865.45,5004.29
+86,Webcam Max 86,Electronics,3112.29,3846.89
+87,Jacket Pro 87,Clothing,3521.57,4491.75
+88,Bookshelf Max 88,Furniture,4909.29,8120.06
+89,Olive Oil Classic 89,Groceries,155.7,220.3
+90,Bookshelf Classic 90,Furniture,4498.38,7305.26
+91,Sticky Notes Classic 91,Stationery,2736.53,3595.43
+92,Storage Cabinet Max 92,Furniture,1770.94,2622.83
+93,Marker Set Eco 93,Stationery,843.7,1090.92
+94,Jeans Classic 94,Clothing,2730.95,3278.32
+95,File Folder Pro 95,Stationery,3681.61,5786.9
+96,Kurta Max 96,Clothing,1231.99,1525.21
+97,File Folder Max 97,Stationery,989.85,1483.32
+98,Gel Pen Plus 98,Stationery,3084.54,4459.88
+99,T-Shirt Max 99,Clothing,526.47,652.83
+100,Desk Lamp Lite 100,Furniture,4373.79,5529.49
+101,Office Chair Max 101,Furniture,207.49,353.1
+102,Spice Kit Eco 102,Groceries,3138.65,4248.36
+103,Jacket Pro 103,Clothing,3049.47,3683.31
+104,Standing Desk Pro 104,Furniture,4645.6,6879.37
+105,Bluetooth Speaker Classic 105,Electronics,2812.2,4761.66
+106,USB Hub Pro 106,Electronics,1365.79,2240.69
+107,T-Shirt Eco 107,Clothing,4725.79,5946.33
+108,Storage Cabinet Lite 108,Furniture,1957.39,2966.85
+109,Storage Cabinet Lite 109,Furniture,3145.36,4828.3
+110,File Folder Max 110,Stationery,3743.24,5786.82
+111,Protein Bar Lite 111,Groceries,4419.98,7405.57
+112,File Folder Max 112,Stationery,2548.23,3299.72
+113,File Folder Plus 113,Stationery,4670.92,7146.74
+114,Jeans Max 114,Clothing,2091.1,3049.56
+115,Kurta Eco 115,Clothing,1241.58,1649.26
+116,Sticky Notes Classic 116,Stationery,1832.04,2690.35
+117,Basmati Rice Plus 117,Groceries,3645.25,5677.32
+118,Gel Pen Plus 118,Stationery,4967.39,5980.45
+119,Desk Lamp Pro 119,Furniture,4285.82,7126.95
+120,Kurta Eco 120,Clothing,2580.79,4530.71
+121,Office Chair Plus 121,Furniture,236.79,306.33
+122,Jeans Lite 122,Clothing,4453.65,5966.98
+123,T-Shirt Eco 123,Clothing,2873.91,5031.44
+124,Webcam Classic 124,Electronics,1657.23,2160.6
+125,Notebook Plus 125,Stationery,2996.39,3662.86
+126,File Folder Pro 126,Stationery,438.46,768.67
+127,Jeans Classic 127,Clothing,4404.97,6386.82
+128,Smartwatch Eco 128,Electronics,3751.01,6591.24
+129,Basmati Rice Pro 129,Groceries,1558.68,2169.04
+130,Gel Pen Max 130,Stationery,1667.82,2222.33
+131,Webcam Classic 131,Electronics,3671.31,6544.57
+132,Marker Set Lite 132,Stationery,2548.41,3718.54
+133,Olive Oil Pro 133,Groceries,704.34,1046.31
+134,USB Hub Pro 134,Electronics,2026,2915.65
+135,Olive Oil Classic 135,Groceries,3822.06,5869.07
+136,Protein Bar Lite 136,Groceries,3278.63,5038.27
+137,Gel Pen Plus 137,Stationery,1249.46,2081.68
+138,Kurta Max 138,Clothing,493.49,714.65
+139,Jeans Plus 139,Clothing,992.92,1545.31
+140,Bluetooth Speaker Plus 140,Electronics,887.81,1393.62
+141,Spice Kit Pro 141,Groceries,771.8,1354.14
+142,Desk Lamp Lite 142,Furniture,3442.53,5696.15
+143,Headphones Lite 143,Electronics,3710.93,6565.99
+144,Bookshelf Max 144,Furniture,117.98,198.51
+145,Sneakers Plus 145,Clothing,2382.39,3157.63
+146,Gel Pen Eco 146,Stationery,1058.82,1747.28
+147,File Folder Lite 147,Stationery,3134.06,5067.91
+148,Power Bank Max 148,Electronics,2935.87,4451.01
+149,Jacket Lite 149,Clothing,347.54,581.61
+150,Sticky Notes Max 150,Stationery,312.77,552.7
+151,Power Bank Max 151,Electronics,3318.85,5679.38
+152,T-Shirt Max 152,Clothing,144.44,206.83
+153,Spice Kit Pro 153,Groceries,4884.23,8509.91
+154,Spice Kit Lite 154,Groceries,2681.23,3537.41
+155,Spice Kit Pro 155,Groceries,4635.43,5673.08
+156,Sticky Notes Classic 156,Stationery,1701.17,2801.21
+157,Bluetooth Speaker Plus 157,Electronics,3437.34,5414.29
+158,Storage Cabinet Pro 158,Furniture,1415.6,2230.24
+159,Basmati Rice Plus 159,Groceries,4723.48,6307.5
+160,Sneakers Pro 160,Clothing,3301.81,5408.15
+161,Marker Set Max 161,Stationery,4369.87,5840.14
+162,Storage Cabinet Plus 162,Furniture,806.11,1407.34
+163,Sneakers Lite 163,Clothing,2734.06,4351.21
+164,Marker Set Lite 164,Stationery,3436.04,5901.58
+165,Kurta Classic 165,Clothing,4552.34,8182.43
+166,Storage Cabinet Plus 166,Furniture,4589.7,5694.39
+167,Notebook Lite 167,Stationery,961.47,1573.2
+168,Sneakers Plus 168,Clothing,4807.92,7047.46
+169,Jacket Pro 169,Clothing,3906.58,4996.23
+170,USB Hub Eco 170,Electronics,3103.89,4780.69
+171,Storage Cabinet Max 171,Furniture,1199.3,1457.93
+172,Webcam Lite 172,Electronics,3910.14,5870.66
+173,File Folder Plus 173,Stationery,3574.49,4683.96
+174,Protein Bar Lite 174,Groceries,2395.54,3152.42
+175,Power Bank Pro 175,Electronics,3834.47,6730.5
+176,Olive Oil Lite 176,Groceries,3724.71,6163.15
+177,Smartwatch Classic 177,Electronics,4639.16,7980.64
+178,Green Tea Lite 178,Groceries,4340.54,6322.14
+179,USB Hub Classic 179,Electronics,3689.89,6022.35
+180,Spice Kit Eco 180,Groceries,4698.74,7312.57
+181,Notebook Classic 181,Stationery,2627.21,3872.88
+182,Smartwatch Classic 182,Electronics,2617.58,4686.25
+183,USB Hub Max 183,Electronics,1967.62,3497.55
+184,Bookshelf Plus 184,Furniture,2225.79,3704.17
+185,Sneakers Plus 185,Clothing,874.11,1370.5
+186,Webcam Lite 186,Electronics,2609,3856.49
+187,Basmati Rice Pro 187,Groceries,3627.1,4743.75
+188,Marker Set Classic 188,Stationery,719.77,1003.41
+189,Smartwatch Max 189,Electronics,2295.72,3988.76
+190,Basmati Rice Max 190,Groceries,1287.91,2046.68
+191,Office Chair Max 191,Furniture,501.4,736.88
+192,T-Shirt Classic 192,Clothing,2642.9,4324.11
+193,Marker Set Classic 193,Stationery,4751.28,7270.44
+194,Smartwatch Eco 194,Electronics,4565.65,7865.63
+195,Desk Lamp Lite 195,Furniture,4350.65,7228.58
+196,Power Bank Max 196,Electronics,1574.91,2616.21
+197,Green Tea Pro 197,Groceries,3150.94,5479.88
+198,Office Chair Plus 198,Furniture,3131.67,3780.94
+199,Protein Bar Pro 199,Groceries,2740.33,4288.04
+200,Olive Oil Max 200,Groceries,1123.53,1668.92
+201,Protein Bar Eco 201,Groceries,443.05,533.41
+202,Sticky Notes Eco 202,Stationery,3117.84,5275.61
+203,Office Chair Pro 203,Furniture,964.96,1536.18
+204,Smartwatch Max 204,Electronics,4276.45,6615.05
+205,Sticky Notes Pro 205,Stationery,1689,2076.49
+206,Olive Oil Plus 206,Groceries,848.61,1329.48
+207,Marker Set Lite 207,Stationery,3947.17,7025.08
+208,Sticky Notes Pro 208,Stationery,4660.83,7742.14
+209,Jeans Pro 209,Clothing,4492.77,7435.83
+210,Notebook Lite 210,Stationery,1499.52,1909.21
+211,Jeans Eco 211,Clothing,2658.91,3525.47
+212,Storage Cabinet Eco 212,Furniture,338.01,553.61
+213,Notebook Max 213,Stationery,2444.13,3819.85
+214,Sneakers Plus 214,Clothing,3063.78,4153.86
+215,Marker Set Lite 215,Stationery,1801.57,2825.9
+216,Spice Kit Classic 216,Groceries,3659.46,5472.73
+217,Storage Cabinet Plus 217,Furniture,1201.97,2148.59
+218,Headphones Max 218,Electronics,168.73,283.14
+219,Storage Cabinet Classic 219,Furniture,4994.99,6130.33
+220,Kurta Lite 220,Clothing,4039.92,4875.29
+221,Bookshelf Pro 221,Furniture,1309.37,1813.04
+222,Marker Set Pro 222,Stationery,1653.42,2097.04
+223,Jeans Eco 223,Clothing,2010.44,3155.58
+224,Smartwatch Plus 224,Electronics,1010.38,1771.57
+225,Protein Bar Max 225,Groceries,3996.41,5121.21
+226,Standing Desk Eco 226,Furniture,4465.69,7759.39
+227,Protein Bar Pro 227,Groceries,4642.56,7897.29
+228,Kurta Plus 228,Clothing,3638.57,5578.31
+229,Smartwatch Plus 229,Electronics,2908.12,4884.83
+230,T-Shirt Plus 230,Clothing,4849.59,8265.85
+231,Sneakers Lite 231,Clothing,3151.23,4861.05
+232,Olive Oil Plus 232,Groceries,2996.2,4863.31
+233,T-Shirt Pro 233,Clothing,1393.91,2088.4
+234,Bookshelf Plus 234,Furniture,2286.94,3040.91
+235,Jacket Pro 235,Clothing,605.54,1009.24
+236,Power Bank Classic 236,Electronics,2554.67,4452.72
+237,Desk Lamp Classic 237,Furniture,1733.57,2842.13
+238,Sticky Notes Lite 238,Stationery,3888.89,6462.13
+239,USB Hub Lite 239,Electronics,3399.75,4498.25
+240,Power Bank Eco 240,Electronics,1968.56,2499.09
+241,T-Shirt Eco 241,Clothing,3450.91,5946.35
+242,Sneakers Pro 242,Clothing,4451.47,6732.17
+243,T-Shirt Plus 243,Clothing,2908.92,4605.72
+244,Bookshelf Plus 244,Furniture,1042.75,1424.39
+245,Sneakers Plus 245,Clothing,3372.06,4348.58
+246,T-Shirt Eco 246,Clothing,125.52,192.77
+247,Smartwatch Eco 247,Electronics,2735.52,3805.36
+248,Bookshelf Lite 248,Furniture,2891.71,3593.66
+249,Sticky Notes Pro 249,Stationery,2725.86,3483.77
+250,Basmati Rice Pro 250,Groceries,574.34,718.89
+251,Olive Oil Eco 251,Groceries,3538.15,5582.08
+252,Spice Kit Plus 252,Groceries,1810.34,3060.32
+253,Notebook Classic 253,Stationery,4869.73,7502.66
+254,Webcam Classic 254,Electronics,2367.97,3282.56
+255,Protein Bar Lite 255,Groceries,1196.89,1539.48
+256,Sticky Notes Classic 256,Stationery,4568.66,5985
+257,Jeans Pro 257,Clothing,2293.75,2842.46
+258,Bluetooth Speaker Lite 258,Electronics,2419.33,3312.92
+259,Kurta Eco 259,Clothing,2894.66,3652.36
+260,Bluetooth Speaker Pro 260,Electronics,2802.94,4696.21
+261,File Folder Classic 261,Stationery,2034.04,2732.01
+262,Storage Cabinet Classic 262,Furniture,837.15,1197.37
+263,Jacket Eco 263,Clothing,4078.88,5949.82
+264,Spice Kit Eco 264,Groceries,3947.27,6380.68
+265,Office Chair Max 265,Furniture,3709.87,5729.94
+266,Basmati Rice Classic 266,Groceries,2981.21,4159.46
+267,Power Bank Classic 267,Electronics,922.06,1144.98
+268,Webcam Classic 268,Electronics,4079.63,5696.98
+269,Headphones Lite 269,Electronics,1127.18,1952.68
+270,Smartwatch Classic 270,Electronics,3321.36,5044.33
+271,Spice Kit Lite 271,Groceries,2910.76,3852.09
+272,Jeans Max 272,Clothing,2872.87,3972.4
+273,Green Tea Eco 273,Groceries,4951.93,5966.44
+274,File Folder Plus 274,Stationery,4245.8,5253.95
+275,Notebook Eco 275,Stationery,54.17,91.68
+276,T-Shirt Pro 276,Clothing,4313.18,5784.6
+277,File Folder Max 277,Stationery,3144.81,4496.05
+278,Protein Bar Max 278,Groceries,2748.34,3583.96
+279,Desk Lamp Plus 279,Furniture,2799.34,4770.01
+280,Bookshelf Max 280,Furniture,4987.41,6360.59
+281,Headphones Lite 281,Electronics,3259.53,5322.17
+282,Protein Bar Lite 282,Groceries,4876.13,6099.05
+283,Protein Bar Max 283,Groceries,4473.23,6990.13
+284,Spice Kit Eco 284,Groceries,940,1367.21
+285,Protein Bar Lite 285,Groceries,1808.77,2631.51
+286,USB Hub Max 286,Electronics,2515.88,3376.44
+287,Sticky Notes Eco 287,Stationery,2083.65,3220.93
+288,Headphones Max 288,Electronics,2862.34,4067.81
+289,File Folder Pro 289,Stationery,4810.6,6182.84
+290,Sticky Notes Pro 290,Stationery,2351.43,3560.1
+291,Notebook Max 291,Stationery,1263.89,2079.11
+292,Webcam Eco 292,Electronics,3186.75,4421.62
+293,Bluetooth Speaker Pro 293,Electronics,2698.41,3997.21
+294,File Folder Plus 294,Stationery,2891.13,4199.68
+295,Jeans Max 295,Clothing,879.17,1541.82
+296,Kurta Max 296,Clothing,1339.19,1987.22
+297,Storage Cabinet Plus 297,Furniture,305.52,514.9
+298,Notebook Pro 298,Stationery,1469.74,1875.52
+299,Bluetooth Speaker Eco 299,Electronics,1297.65,1775.94
+300,T-Shirt Eco 300,Clothing,3720.07,4853.83
+301,Gel Pen Plus 301,Stationery,3312.82,5581.12
+302,Jacket Eco 302,Clothing,2450.35,4207.76
+303,T-Shirt Eco 303,Clothing,4838.36,8517.28
+304,Standing Desk Classic 304,Furniture,3776.17,6276.83
+305,Standing Desk Lite 305,Furniture,3643.7,4833.42
+306,T-Shirt Pro 306,Clothing,3229.19,3976.79
+307,Protein Bar Classic 307,Groceries,2407.35,3966.57
+308,Gel Pen Max 308,Stationery,1930.01,2767.72
+309,Jacket Classic 309,Clothing,2675.69,3229.87
+310,Protein Bar Eco 310,Groceries,3408.54,5486.81
+311,Headphones Max 311,Electronics,4592.68,6486.23
+312,Spice Kit Plus 312,Groceries,4594.31,6436.54
+313,T-Shirt Eco 313,Clothing,1313.95,1885.11
+314,Storage Cabinet Eco 314,Furniture,3863.96,5418.99
+315,Bookshelf Max 315,Furniture,2760.68,3326.86
+316,Headphones Eco 316,Electronics,2085.68,2632.85
+317,Green Tea Plus 317,Groceries,1136.11,1535.04
+318,Headphones Pro 318,Electronics,3116.02,5493.87
+319,Storage Cabinet Max 319,Furniture,3208.51,5694.07
+320,USB Hub Max 320,Electronics,693.04,1149.28
+321,Gel Pen Max 321,Stationery,4485.21,5878.13
+322,Sneakers Pro 322,Clothing,3319.37,5255.45
+323,Sneakers Max 323,Clothing,3476.5,5777.69
+324,Jeans Pro 324,Clothing,851.73,1163.78
+325,Power Bank Pro 325,Electronics,1973.52,2674.01
+326,Jacket Classic 326,Clothing,2230.85,3987.99
+327,Storage Cabinet Max 327,Furniture,1993.54,2980.81
+328,Storage Cabinet Lite 328,Furniture,3855.1,6046.26
+329,Power Bank Pro 329,Electronics,3591.23,4384.59
+330,USB Hub Classic 330,Electronics,3651.35,4422.73
+331,Olive Oil Pro 331,Groceries,3281.68,5774.89
+332,Green Tea Plus 332,Groceries,800.46,1395.02
+333,Notebook Classic 333,Stationery,2601.15,3867.61
+334,Basmati Rice Pro 334,Groceries,2723.64,3896.59
+335,Basmati Rice Plus 335,Groceries,2857.86,4001.19
+336,Sneakers Max 336,Clothing,323.21,405.43
+337,Sticky Notes Classic 337,Stationery,448.26,742.44
+338,Jacket Pro 338,Clothing,924.26,1645.65
+339,Bookshelf Pro 339,Furniture,3494.62,5515.8
+340,Sneakers Max 340,Clothing,470.07,687.61
+341,Desk Lamp Pro 341,Furniture,226.71,369.96
+342,Gel Pen Pro 342,Stationery,2471.7,4141.69
+343,Sneakers Classic 343,Clothing,2693,4793.39
+344,Headphones Plus 344,Electronics,1729.46,2892.81
+345,Power Bank Max 345,Electronics,635.03,1016.3
+346,Spice Kit Eco 346,Groceries,787.32,1054.84
+347,Headphones Classic 347,Electronics,3690.53,5876.43
+348,Spice Kit Max 348,Groceries,276.72,439.78
+349,Smartwatch Plus 349,Electronics,3181.67,5384.8
+350,Power Bank Eco 350,Electronics,3075.57,3808.71
+351,Headphones Eco 351,Electronics,2510.86,3345.33
+352,Standing Desk Max 352,Furniture,1719.85,2763.87
+353,T-Shirt Eco 353,Clothing,4880.47,7455.07
+354,Jacket Eco 354,Clothing,3832.93,4998.4
+355,Headphones Classic 355,Electronics,1405.77,1828.67
+356,Kurta Lite 356,Clothing,866.78,1521.55
+357,Smartwatch Max 357,Electronics,544.84,854.02
+358,Office Chair Pro 358,Furniture,4404.15,5301.76
+359,Office Chair Eco 359,Furniture,3548.37,6146.31
+360,Protein Bar Lite 360,Groceries,3477.17,4471.13
+361,Kurta Lite 361,Clothing,2279.57,4018.55
+362,Notebook Max 362,Stationery,3001.55,4502.12
+363,Webcam Plus 363,Electronics,4141.09,5833.6
+364,USB Hub Pro 364,Electronics,1216.41,2179.76
+365,USB Hub Eco 365,Electronics,1841.41,2770.45
+366,Olive Oil Lite 366,Groceries,1418.31,1797.86
+367,Standing Desk Lite 367,Furniture,2512.7,4025.56
+368,Headphones Plus 368,Electronics,3242.06,4298.17
+369,Jeans Classic 369,Clothing,3103.26,3804.57
+370,USB Hub Pro 370,Electronics,920.64,1372.71
+371,Headphones Max 371,Electronics,4480.64,6572.62
+372,Sticky Notes Max 372,Stationery,2124.38,3411.99
+373,Jacket Plus 373,Clothing,3905.93,5220.94
+374,Standing Desk Classic 374,Furniture,4355.94,7556.77
+375,Power Bank Pro 375,Electronics,2946.21,5109.59
+376,Desk Lamp Classic 376,Furniture,4643.04,6067.69
+377,Jacket Lite 377,Clothing,2315.81,3657.16
+378,Jacket Pro 378,Clothing,1712.66,2766.5
+379,Bluetooth Speaker Classic 379,Electronics,725.68,1070.48
+380,Bookshelf Plus 380,Furniture,1138.28,1778.2
+381,Gel Pen Eco 381,Stationery,2911.7,4987.75
+382,Power Bank Classic 382,Electronics,4292.02,7370.77
+383,Storage Cabinet Classic 383,Furniture,2393.77,3273.49
+384,Olive Oil Classic 384,Groceries,1276.77,1976.03
+385,Gel Pen Pro 385,Stationery,4573.09,6634.01
+386,Headphones Max 386,Electronics,4956.8,8234.06
+387,Power Bank Classic 387,Electronics,2679.05,4516.42
+388,Power Bank Pro 388,Electronics,2501.66,3840.28
+389,Webcam Lite 389,Electronics,3672.34,4699.23
+390,Jacket Pro 390,Clothing,3255.82,3938.1
+391,Jacket Eco 391,Clothing,3531.36,5821
+392,Power Bank Lite 392,Electronics,2345.62,4045.07
+393,Olive Oil Plus 393,Groceries,3959.8,6240.99
+394,Webcam Max 394,Electronics,399.96,559.84
+395,Bluetooth Speaker Plus 395,Electronics,2158.22,3493.8
+396,Marker Set Lite 396,Stationery,2897.39,4846.22
+397,USB Hub Max 397,Electronics,4410.19,7759.05
+398,Sticky Notes Pro 398,Stationery,4445.49,6356.04
+399,Spice Kit Plus 399,Groceries,252.33,329.33
+400,Notebook Lite 400,Stationery,2825.75,3625.56
+401,Jacket Max 401,Clothing,2721.19,4046.67
+402,Gel Pen Lite 402,Stationery,3778.21,5260.32
+403,Kurta Plus 403,Clothing,3417.12,4212.2
+404,Jeans Eco 404,Clothing,2289.43,3470.8
+405,Power Bank Max 405,Electronics,3563.64,6041.18
+406,Sneakers Max 406,Clothing,3123.71,5520.28
+407,Smartwatch Classic 407,Electronics,4464.92,5591.8
+408,Olive Oil Pro 408,Groceries,1477.44,1869.88
+409,T-Shirt Classic 409,Clothing,3500.56,4516.77
+410,Storage Cabinet Pro 410,Furniture,4762.92,6553.31
+411,Gel Pen Classic 411,Stationery,2395.83,3513.04
+412,Bluetooth Speaker Pro 412,Electronics,985.85,1698.69
+413,Storage Cabinet Classic 413,Furniture,3241.13,5014.75
+414,Sneakers Max 414,Clothing,2987.12,4534.75
+415,File Folder Eco 415,Stationery,2317.14,2964.02
+416,Jacket Lite 416,Clothing,3956.88,5897.91
+417,T-Shirt Plus 417,Clothing,784.27,1155.67
+418,Storage Cabinet Max 418,Furniture,4624.45,7034.67
+419,Desk Lamp Max 419,Furniture,4204.69,7328.05
+420,Desk Lamp Pro 420,Furniture,1227.63,2205.15
+421,Gel Pen Plus 421,Stationery,2232.4,2926
+422,Notebook Plus 422,Stationery,3344.49,4310.27
+423,Spice Kit Eco 423,Groceries,4878.56,6736.98
+424,Power Bank Lite 424,Electronics,4658.79,8239.88
+425,Jacket Max 425,Clothing,71.26,108.86
+426,Sticky Notes Plus 426,Stationery,3253.86,4829.86
+427,Kurta Eco 427,Clothing,3351.09,5486.16
+428,Green Tea Max 428,Groceries,3461.28,5148.27
+429,Smartwatch Pro 429,Electronics,3406.14,4716.99
+430,Spice Kit Classic 430,Groceries,4212.34,5958.09
+431,T-Shirt Lite 431,Clothing,3060.35,4743.72
+432,Bookshelf Pro 432,Furniture,1018.79,1551.67
+433,Basmati Rice Classic 433,Groceries,4880.41,6425.89
+434,Kurta Pro 434,Clothing,3045.14,5313.98
+435,Sneakers Classic 435,Clothing,782.33,1112.3
+436,T-Shirt Plus 436,Clothing,1459.02,2020.53
+437,Spice Kit Max 437,Groceries,483.61,837.94
+438,Protein Bar Max 438,Groceries,1478.74,2635.43
+439,Protein Bar Eco 439,Groceries,740.86,1154.82
+440,Desk Lamp Eco 440,Furniture,1550.99,2779.35
+441,USB Hub Pro 441,Electronics,3792.76,4566.37
+442,Sneakers Classic 442,Clothing,915.72,1489.1
+443,Desk Lamp Classic 443,Furniture,970.73,1333.47
+444,Basmati Rice Plus 444,Groceries,4122.86,7011.96
+445,Sneakers Classic 445,Clothing,2818.44,3761.81
+446,Smartwatch Max 446,Electronics,1350.25,2296.16
+447,Basmati Rice Plus 447,Groceries,3286.37,4766.2
+448,Olive Oil Plus 448,Groceries,190.79,285.39
+449,USB Hub Eco 449,Electronics,3740.55,5567.03
+450,Green Tea Classic 450,Groceries,3158.58,5636.66
+451,Bluetooth Speaker Eco 451,Electronics,2587,3131.63
+452,Jacket Lite 452,Clothing,2929.19,4076.87
+453,Bookshelf Plus 453,Furniture,858.38,1216.07
+454,T-Shirt Eco 454,Clothing,1484.79,2350.97
+455,USB Hub Max 455,Electronics,1009.38,1322.24
+456,USB Hub Eco 456,Electronics,3775.51,5261.42
+457,Jeans Max 457,Clothing,1393.72,2248.08
+458,USB Hub Lite 458,Electronics,2921.23,3528.08
+459,Sticky Notes Classic 459,Stationery,1896.42,2744.49
+460,Office Chair Eco 460,Furniture,1128.49,1503.9
+461,Storage Cabinet Eco 461,Furniture,3086.47,5270.59
+462,Notebook Pro 462,Stationery,2115.86,2687.01
+463,Office Chair Plus 463,Furniture,2423.62,3913.25
+464,Standing Desk Eco 464,Furniture,4454.15,6743.02
+465,Jacket Pro 465,Clothing,3563.98,5868.72
+466,Smartwatch Max 466,Electronics,687.14,883.26
+467,Bookshelf Lite 467,Furniture,670.45,1199.21
+468,Basmati Rice Classic 468,Groceries,434.79,719.32
+469,Smartwatch Max 469,Electronics,583.7,880.27
+470,Power Bank Plus 470,Electronics,638.66,782.98
+471,T-Shirt Pro 471,Clothing,3785.02,6631.58
+472,Storage Cabinet Lite 472,Furniture,4510.82,7227.96
+473,Headphones Max 473,Electronics,770.51,1360.03
+474,Sticky Notes Eco 474,Stationery,1793.41,2992.27
+475,Gel Pen Pro 475,Stationery,2549.3,3210.75
+476,Notebook Max 476,Stationery,2667.75,3507.9
+477,Jacket Eco 477,Clothing,4513.22,5427.59
+478,Smartwatch Max 478,Electronics,4606.36,6839.66
+479,Gel Pen Pro 479,Stationery,2226.35,2913.2
+480,Sneakers Eco 480,Clothing,2149.25,2872.54
+481,Bluetooth Speaker Pro 481,Electronics,661.9,1000.68
+482,Green Tea Eco 482,Groceries,3538.42,5779.24
+483,Bluetooth Speaker Classic 483,Electronics,2493.88,3417.03
+484,Sticky Notes Classic 484,Stationery,3450.88,4608.73
+485,Green Tea Classic 485,Groceries,4925.56,6468.6
+486,Power Bank Plus 486,Electronics,4698.46,6143.6
+487,Basmati Rice Eco 487,Groceries,2012.03,3209.45
+488,Headphones Classic 488,Electronics,759.67,1228.4
+489,Webcam Lite 489,Electronics,4630.19,5736
+490,Bookshelf Classic 490,Furniture,1041.3,1326.26
+491,Protein Bar Max 491,Groceries,1428.67,2371
+492,Sticky Notes Max 492,Stationery,3793.7,6699.43
+493,Sneakers Classic 493,Clothing,3350.05,6005.01
+494,Sticky Notes Classic 494,Stationery,779.5,985.93
+495,Sneakers Max 495,Clothing,2511.51,4433.92
+496,Headphones Pro 496,Electronics,3702.1,5549.01
+497,Smartwatch Max 497,Electronics,1944.03,2714.2
+498,Kurta Pro 498,Clothing,3135,5005.49
+499,File Folder Lite 499,Stationery,3974.02,5468.8
+500,Protein Bar Eco 500,Groceries,2548.73,3583.95
